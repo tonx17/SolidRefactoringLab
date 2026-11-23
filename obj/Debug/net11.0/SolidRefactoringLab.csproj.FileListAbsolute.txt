@@ -1,0 +1,16 @@
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.exe
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.deps.json
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.runtimeconfig.dev.json
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.dll
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\bin\Debug\net11.0\SolidRefactoringLab.pdb
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.dll
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\obj\Debug\net11.0\refint\SolidRefactoringLab.dll
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.pdb
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\obj\Debug\net11.0\SolidRefactoringLab.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\obj\Debug\net11.0\ref\SolidRefactoringLab.dll
+C:\Users\antho\OneDrive\Documents\code\Lab5\SolidRefactoringLab\obj\Debug\net11.0\SolidRef.F1B170A9.Up2Date
